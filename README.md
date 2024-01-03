@@ -1,3 +1,3 @@
-# CountriesShape
+# Forme des pays
 
-List of 190 countries shapes (missing Tuvalu, Marshall and Micronesia)
+Liste des 190 pays (manquent Tuvalu, Marshall et Micronesie)
